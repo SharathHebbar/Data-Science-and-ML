@@ -57,4 +57,4 @@ MLPs have numerous applications in real-world scenarios:
 
 **Conclusion**
 
-In conclusion, Multi-Layer Perceptrons are powerful tools in the realm of deep learning. By understanding how MLPs work and incorporating different architectures, you can unlock their full potential for solving complex problems in data science. Whether you're a seasoned expert or just starting out, this beginner's guide has provided a solid foundation for exploring the world of Multi-Layer Perceptrons.
+In conclusion, Multi-Layer Perceptrons are powerful tools in the realm of deep learning. By understanding how MLPs work and incorporating different architectures, you can unlock their full potential for solving complex problems in data science. Whether you’re a seasoned expert or just starting, this beginner’s guide has provided a solid foundation for exploring the world of Multi-Layer Perceptrons.
